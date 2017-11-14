@@ -4,9 +4,10 @@ import { Component } from '@angular/core';
     selector:'sandbox',
     template:`
 	 	<h1>Hello World</h1>
+		
 	`
 })
 
 export class SandboxComponent{
-	
+
 }
